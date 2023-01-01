@@ -15,4 +15,4 @@
 ]]
 
 # silkworm configuration
-include(${CMAKE_SOURCE_DIR}/silkworm/cmake/Hunter/config.cmake)
+# include(${CMAKE_SOURCE_DIR}/silkworm/cmake/Hunter/config.cmake)
